@@ -1,4 +1,4 @@
-```markdown
+
 # Use of Enums in TypeScript
 
 ## What are Enums?
@@ -49,4 +49,3 @@ console.log(role); // Output: EDITOR
 - Numeric enums assign numbers (0, 1, 2, etc.) to names by default, but you can set custom numbers.
 - String enums use specific strings for better clarity.
 - Enums make code easier to understand and prevent mistakes, like using wrong values.
-```
